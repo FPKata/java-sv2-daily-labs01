@@ -1,1 +1,1 @@
-# Heti konzultációs feladatok megoldása
+# 1. heti konzultációs feladatok megoldása
