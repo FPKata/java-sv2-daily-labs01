@@ -1,1 +1,1 @@
-# java-sv2-daily-labs01
+# Heti konzultációs feladatok megoldása
